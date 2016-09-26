@@ -1,5 +1,7 @@
 # Template to start your KotlinJS application
 
+(because I have no time to learn how to build Yeoman generator)
+
 Initialize:
 * ``__install.cmd`` (install node and python packages)
 
